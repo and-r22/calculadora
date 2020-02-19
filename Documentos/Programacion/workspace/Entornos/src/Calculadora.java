@@ -21,5 +21,11 @@ public class Calculadora
 	{
 		return x / y;
 	}
+	
+	public static int Suma2 (int x, int y)
+	{
+		return x + y;
+	}
+
 
 }
