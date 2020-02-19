@@ -27,5 +27,9 @@ public class Calculadora
 		return x + y;
 	}
 
+	public static int Resta2 (int x, int y)
+	{
+		return x - y;
+	}
 
 }
